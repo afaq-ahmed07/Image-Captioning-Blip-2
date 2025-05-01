@@ -13,11 +13,8 @@ The project uses the BLIP-2 model from Salesforce, a vision-language transformer
 - **IPython Notebook**: The notebook contains the complete code for loading the dataset, fine-tuning the model, and evaluating the results.
 
 ## Files & Directories
-
-- **flickr8k.zip**: Contains the images from the Flickr8k dataset.
 - **flickr8k_captions.csv**: A CSV file containing the captions for the images in the dataset.
-- **blip2-flickr8k.ipynb**: Jupyter notebook that contains the entire process of fine-tuning and evaluating the BLIP-2 model.
-- **model**: The fine-tuned model saved for inference and further use.
+- **VLM_Blip_2_1.ipynb**: Jupyter notebook that contains the entire process of fine-tuning and evaluating the BLIP-2 model.
 
 ## Requirements
 
